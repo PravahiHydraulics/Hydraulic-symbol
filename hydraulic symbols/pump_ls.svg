@@ -1,0 +1,219 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 882 872" height="109mm" width="110.25mm">
+<title>29L35N0SL0</title>
+<g style="stroke-linejoin: round; stroke-linecap: round; fill: none; stroke: black; stroke-width: 2;" transform="translate(581,491)">
+<rect x="-340" y="-370" width="240" height="80" />
+<line x1="-330" y1="-380" x2="-110" y2="-380" />
+<line x1="-330" y1="-280" x2="-110" y2="-280" />
+<line x1="-260" y1="-370" x2="-260" y2="-290" />
+<line x1="-180" y1="-370" x2="-180" y2="-290" />
+<line x1="-280" y1="-370" x2="-280" y2="-350" />
+<line x1="-290" y1="-350" x2="-270" y2="-350" />
+<line x1="-160" y1="-370" x2="-160" y2="-350" />
+<line x1="-170" y1="-350" x2="-150" y2="-350" />
+<polyline points="-320,-370 -320,-349.38 -310.3,-351.81 -320,-370" fill="black" />
+<line x1="-300" y1="-290" x2="-315.15" y2="-350.6" fill="black" />
+<polyline points="-140,-290 -130.3,-308.19 -140,-310.62 -140,-290" fill="black" />
+<line x1="-120" y1="-370" x2="-135.15" y2="-309.4" fill="black" />
+<line x1="-240" y1="-370" x2="-240" y2="-350" />
+<line x1="-250" y1="-350" x2="-230" y2="-350" />
+<line x1="-200" y1="-370" x2="-200" y2="-350" />
+<line x1="-210" y1="-350" x2="-190" y2="-350" />
+<line x1="-220" y1="-290" x2="-220" y2="-310" />
+<line x1="-210" y1="-310" x2="-230" y2="-310" />
+<polyline points="-340,-310 -344.17,-330 -348.33,-310 -352.5,-290 -356.67,-310 -360.83,-330 -365,-310 -369.17,-290 -373.33,-310 -377.5,-330 -381.67,-310 -385.83,-290 -390,-310" />
+<rect x="-320" y="-140" width="240" height="80" />
+<line x1="-310" y1="-150" x2="-90" y2="-150" />
+<line x1="-310" y1="-50" x2="-90" y2="-50" />
+<line x1="-240" y1="-140" x2="-240" y2="-60" />
+<line x1="-160" y1="-140" x2="-160" y2="-60" />
+<line x1="-260" y1="-140" x2="-260" y2="-120" />
+<line x1="-270" y1="-120" x2="-250" y2="-120" />
+<line x1="-140" y1="-140" x2="-140" y2="-120" />
+<line x1="-150" y1="-120" x2="-130" y2="-120" />
+<polyline points="-300,-140 -300,-119.38 -290.3,-121.81 -300,-140" fill="black" />
+<line x1="-280" y1="-60" x2="-295.15" y2="-120.6" fill="black" />
+<polyline points="-120,-60 -110.3,-78.19 -120,-80.62 -120,-60" fill="black" />
+<line x1="-100" y1="-140" x2="-115.15" y2="-79.4" fill="black" />
+<line x1="-220" y1="-140" x2="-220" y2="-120" />
+<line x1="-230" y1="-120" x2="-210" y2="-120" />
+<line x1="-180" y1="-140" x2="-180" y2="-120" />
+<line x1="-190" y1="-120" x2="-170" y2="-120" />
+<line x1="-200" y1="-60" x2="-200" y2="-80" />
+<line x1="-190" y1="-80" x2="-210" y2="-80" />
+<polyline points="-320,-80 -324.17,-100 -328.33,-80 -332.5,-60 -336.67,-80 -340.83,-100 -345,-80 -349.17,-60 -353.33,-80 -357.5,-100 -361.67,-80 -365.83,-60 -370,-80" />
+<circle cx="-350" cy="-10" r="20" />
+<line x1="-330" y1="-10" x2="-370" y2="-10" />
+<path d="M -360 1.82 A 15 15 1 0 1 -340 1.82" />
+<path d="M -360 -21.82 A 15 15 1 0 0 -340 -21.82" />
+<line x1="-440" y1="20" x2="-440" y2="40" />
+<line x1="-440" y1="40" x2="-400" y2="40" />
+<line x1="-400" y1="40" x2="-400" y2="20" />
+<circle cx="-480" cy="-120" r="20" />
+<line x1="-460" y1="-120" x2="-500" y2="-120" />
+<path d="M -490 -108.18 A 15 15 1 0 1 -470 -108.18" />
+<path d="M -490 -131.82 A 15 15 1 0 0 -470 -131.82" />
+<line x1="-580" y1="60" x2="-580" y2="-480" stroke-dashoffset="12.5" stroke-dasharray="65 10 15 10" />
+<line x1="-580" y1="60" x2="120" y2="60" stroke-dashoffset="82.5" stroke-dasharray="65 10 15 10" />
+<line x1="120" y1="-480" x2="120" y2="60" stroke-dashoffset="12.5" stroke-dasharray="65 10 15 10" />
+<line x1="-300" y1="-290" x2="-300" y2="-290" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-300" y1="-290" x2="-300" y2="-140" stroke-dashoffset="5" stroke-dasharray="16 8" />
+<line x1="-300" y1="-140" x2="-300" y2="-140" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-60" x2="-280" y2="-60" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-60" x2="-280" y2="-10" stroke-dashoffset="7" stroke-dasharray="16 8" />
+<line x1="-280" y1="-10" x2="-280" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-370" y1="-10" x2="-370" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-370" y1="-10" x2="-420" y2="-10" stroke-dashoffset="7" stroke-dasharray="16 8" />
+<line x1="-420" y1="-10" x2="-420" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="-420" cy="-10" r="5" fill="black" stroke="none" />
+<line x1="-420" y1="-10" x2="-420" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-420" y1="-10" x2="-420" y2="40" stroke-dashoffset="7" stroke-dasharray="16 8" />
+<line x1="-420" y1="40" x2="-420" y2="40" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-420" y1="-10" x2="-420" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-420" y1="-10" x2="-420" y2="-120" stroke-dashoffset="1" stroke-dasharray="16 8" />
+<line x1="-420" y1="-120" x2="-420" y2="-120" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="-420" cy="-120" r="5" fill="black" stroke="none" />
+<line x1="-420" y1="-120" x2="-420" y2="-120" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-420" y1="-120" x2="-460" y2="-120" stroke-dashoffset="12" stroke-dasharray="16 8" />
+<line x1="-460" y1="-120" x2="-460" y2="-120" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-420" y1="-120" x2="-420" y2="-120" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-420" y1="-120" x2="-320" y2="-120" stroke-dashoffset="6" stroke-dasharray="16 8" />
+<line x1="-320" y1="-120" x2="-320" y2="-120" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-500" y1="-120" x2="-500" y2="-120" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-500" y1="-120" x2="-540" y2="-120" stroke-dashoffset="12" stroke-dasharray="16 8" />
+<line x1="-540" y1="-120" x2="-540" y2="-350" stroke-dashoffset="1" stroke-dasharray="16 8" />
+<line x1="-540" y1="-350" x2="-540" y2="-350" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-340" y1="-350" x2="-340" y2="-350" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-340" y1="-350" x2="-480" y2="-350" stroke-dashoffset="10" stroke-dasharray="16 8" />
+<line x1="-480" y1="-350" x2="-480" y2="-350" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="-480" cy="-350" r="5" fill="black" stroke="none" />
+<line x1="-280" y1="-370" x2="-280" y2="-370" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-370" x2="-280" y2="-440" stroke-dashoffset="9" stroke-dasharray="16 8" />
+<line x1="-280" y1="-440" x2="-280" y2="-440" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="-370" cy="-440" r="20" />
+<line x1="-355.86" y1="-425.86" x2="-384.14" y2="-454.14" />
+<line x1="-384.14" y1="-425.86" x2="-355.86" y2="-454.14" />
+<circle cx="190" cy="270" r="60" />
+<polyline points="204.45,240 190,210 175.55,240 204.45,240" fill="black" />
+<line x1="131" y1="260" x2="-20" y2="260" />
+<line x1="-20" y1="280" x2="131" y2="280" />
+<line x1="-20" y1="260" x2="-20" y2="280" />
+<line x1="-150" y1="86" x2="-150" y2="134" />
+<line x1="-70" y1="122" x2="35" y2="122" />
+<line x1="35" y1="122" x2="35" y2="98" />
+<line x1="35" y1="98" x2="-70" y2="98" />
+<line x1="-110" y1="86" x2="-150" y2="86" />
+<line x1="-150" y1="134" x2="-110" y2="134" />
+<line x1="-110" y1="134" x2="-108" y2="132" />
+<line x1="-108" y1="132" x2="-135" y2="132" />
+<line x1="-110" y1="86" x2="-108" y2="88" />
+<line x1="-108" y1="88" x2="-135" y2="88" />
+<line x1="-135" y1="88" x2="-135" y2="132" />
+<line x1="-108" y1="88" x2="-70" y2="88" />
+<line x1="-70" y1="88" x2="-70" y2="98" />
+<line x1="-108" y1="132" x2="-70" y2="132" />
+<line x1="-70" y1="132" x2="-70" y2="122" />
+<line x1="6" y1="96" x2="46" y2="96" />
+<line x1="6" y1="96" x2="4" y2="98" />
+<line x1="4" y1="122" x2="6" y2="124" />
+<line x1="6" y1="124" x2="46" y2="124" />
+<line x1="46" y1="96" x2="46" y2="124" />
+<polyline points="35,110 35.69,107 36.38,110 37.06,113 37.75,110 38.44,107 39.12,110 39.81,113 40.5,110 41.19,107 41.88,110 42.56,113 43.25,110 43.94,107 44.62,110 45.31,113 46,110" />
+<circle cx="-55" cy="110" r="10" />
+<line x1="-55" y1="110" x2="260" y2="320" />
+<circle cx="190" cy="270" r="60" />
+<polyline points="204.45,240 190,210 175.55,240 204.45,240" fill="black" />
+<circle cx="190" cy="270" r="60" />
+<polyline points="204.45,240 190,210 175.55,240 204.45,240" fill="black" />
+<circle cx="-280" cy="-440" r="5" fill="black" stroke="none" />
+<line x1="-280" y1="-440" x2="-280" y2="-440" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-440" x2="-480" y2="-440" stroke-dashoffset="4" stroke-dasharray="16 8" />
+<line x1="-480" y1="-440" x2="-480" y2="-350" stroke-dashoffset="11" stroke-dasharray="16 8" />
+<line x1="-480" y1="-350" x2="-480" y2="-350" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-440" x2="-280" y2="-440" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-440" x2="80" y2="-440" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="80" y1="-440" x2="80" y2="-330" stroke-dashoffset="1" stroke-dasharray="16 8" />
+<line x1="80" y1="-330" x2="80" y2="-330" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="80" cy="-330" r="5" fill="black" stroke="none" />
+<line x1="80" y1="-330" x2="80" y2="-330" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="80" y1="-330" x2="80" y2="-190" stroke-dashoffset="10" stroke-dasharray="16 8" />
+<line x1="80" y1="-190" x2="80" y2="-190" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-100" y1="-330" x2="-100" y2="-330" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-100" y1="-330" x2="80" y2="-330" stroke-dashoffset="2" stroke-dasharray="16 8" />
+<line x1="80" y1="-330" x2="80" y2="-330" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="80" cy="-100" r="5" fill="black" stroke="none" />
+<line x1="80" y1="-100" x2="80" y2="-100" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="80" y1="-100" x2="80" y2="110" stroke-dashoffset="11" stroke-dasharray="16 8" />
+<line x1="80" y1="110" x2="80" y2="110" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-80" y1="-100" x2="-80" y2="-100" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-80" y1="-100" x2="80" y2="-100" stroke-dashoffset="12" stroke-dasharray="16 8" />
+<line x1="80" y1="-100" x2="80" y2="-100" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="80" cy="-190" r="5" fill="black" stroke="none" />
+<line x1="80" y1="-190" x2="80" y2="-190" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="80" y1="-190" x2="80" y2="-100" stroke-dashoffset="11" stroke-dasharray="16 8" />
+<line x1="80" y1="-100" x2="80" y2="-100" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-260" y1="-140" x2="-260" y2="-140" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-260" y1="-140" x2="-260" y2="-190" stroke-dashoffset="7" stroke-dasharray="16 8" />
+<line x1="-260" y1="-190" x2="80" y2="-190" stroke-dashoffset="6" stroke-dasharray="16 8" />
+<line x1="80" y1="-190" x2="80" y2="-190" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<path d="M -420 -360 A 10 10 1 0 1 -420 -340" />
+<line x1="-420" y1="-120" x2="-420" y2="-120" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-420" y1="-120" x2="-420" y2="-340" stroke-dashoffset="6" stroke-dasharray="16 8" />
+<line x1="-420" y1="-360" x2="-420" y2="-400" stroke-dashoffset="12" stroke-dasharray="16 8" />
+<line x1="-420" y1="-400" x2="-320" y2="-400" stroke-dashoffset="6" stroke-dasharray="16 8" />
+<line x1="-320" y1="-400" x2="-320" y2="-370" stroke-dashoffset="5" stroke-dasharray="16 8" />
+<line x1="-320" y1="-370" x2="-320" y2="-370" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="-280" cy="-10" r="5" fill="black" stroke="none" />
+<line x1="-280" y1="-10" x2="-280" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-10" x2="-330" y2="-10" stroke-dashoffset="7" stroke-dasharray="16 8" />
+<line x1="-330" y1="-10" x2="-330" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-10" x2="-280" y2="-10" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="-10" x2="-280" y2="110" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-280" y1="110" x2="-150" y2="110" stroke-dashoffset="3" stroke-dasharray="16 8" />
+<line x1="-150" y1="110" x2="-150" y2="110" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-580" y1="60" x2="-580" y2="170" stroke-dashoffset="77.5" stroke-dasharray="65 10 15 10" />
+<line x1="-580" y1="170" x2="0" y2="170" stroke-dashoffset="42.5" stroke-dasharray="65 10 15 10" />
+<line x1="0" y1="170" x2="0" y2="370" stroke-dashoffset="82.5" stroke-dasharray="65 10 15 10" />
+<polyline points="190,210 190,210 190,110 190,110" />
+<circle cx="80" cy="110" r="5" fill="black" stroke="none" />
+<line x1="80" y1="110" x2="80" y2="110" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="80" y1="110" x2="46" y2="110" stroke-dashoffset="3" stroke-dasharray="16 8" />
+<line x1="46" y1="110" x2="46" y2="110" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="-540" cy="-480" r="10" fill="rgb(255,255,255)" />
+<circle cx="-540" cy="-350" r="5" fill="black" stroke="none" />
+<line x1="-540" y1="-350" x2="-540" y2="-350" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-540" y1="-350" x2="-480" y2="-350" stroke-dashoffset="2" stroke-dasharray="16 8" />
+<line x1="-480" y1="-350" x2="-480" y2="-350" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="190" cy="60" r="10" fill="rgb(255,255,255)" />
+<circle cx="190" cy="110" r="5" fill="black" stroke="none" />
+<line x1="190" y1="110" x2="190" y2="110" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="190" y1="110" x2="80" y2="110" stroke-dashoffset="1" stroke-dasharray="16 8" />
+<line x1="80" y1="110" x2="80" y2="110" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<circle cx="290" cy="190" r="10" fill="rgb(255,255,255)" />
+<circle cx="190" cy="370" r="10" fill="rgb(255,255,255)" />
+<circle cx="130" cy="370" r="10" fill="rgb(255,255,255)" />
+<polyline points="-344,-118 -353.84,-99.88 -344.16,-97.39 -344,-118" fill="black" />
+<line x1="-360" y1="-56" x2="-349" y2="-98.63" fill="black" />
+<polyline points="-364,-347 -373.84,-328.88 -364.16,-326.39 -364,-347" fill="black" />
+<line x1="-380" y1="-285" x2="-369" y2="-327.63" fill="black" />
+<line x1="148" y1="312" x2="148" y2="312" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="148" y1="312" x2="130" y2="350" stroke-dashoffset="10.98" stroke-dasharray="16 8" />
+<line x1="0" y1="370" x2="120" y2="370" stroke-dashoffset="22.5" stroke-dasharray="65 10 15 10" />
+<line x1="130" y1="350" x2="130" y2="360" stroke-dashoffset="3" stroke-dasharray="16 8" />
+<line x1="140" y1="370" x2="180" y2="370" stroke-dashoffset="12.5" stroke-dasharray="65 10 15 10" />
+<line x1="290" y1="370" x2="200" y2="370" stroke-dashoffset="37.5" stroke-dasharray="65 10 15 10" />
+<line x1="190" y1="330" x2="190" y2="360" />
+<line x1="232" y1="228" x2="232" y2="228" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="232" y1="228" x2="250" y2="190" stroke-dashoffset="10.98" stroke-dasharray="16 8" />
+<line x1="250" y1="190" x2="280" y2="190" stroke-dashoffset="5" stroke-dasharray="16 8" />
+<line x1="290" y1="370" x2="290" y2="200" stroke-dashoffset="47.5" stroke-dasharray="65 10 15 10" />
+<line x1="290" y1="60" x2="290" y2="180" stroke-dashoffset="22.5" stroke-dasharray="65 10 15 10" />
+<line x1="190" y1="110" x2="190" y2="70" />
+<line x1="120" y1="60" x2="180" y2="60" stroke-dashoffset="52.5" stroke-dasharray="65 10 15 10" />
+<line x1="290" y1="60" x2="200" y2="60" stroke-dashoffset="37.5" stroke-dasharray="65 10 15 10" />
+<line x1="-540" y1="-350" x2="-540" y2="-470" stroke-dashoffset="8" stroke-dasharray="16 8" />
+<line x1="-580" y1="-480" x2="-550" y2="-480" stroke-dashoffset="17.5" stroke-dasharray="65 10 15 10" />
+<line x1="120" y1="-480" x2="-530" y2="-480" stroke-dashoffset="57.5" stroke-dasharray="65 10 15 10" />
+</g>
+</svg>
