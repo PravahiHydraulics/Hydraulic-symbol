@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.96 34.46">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ArialMT, Arial;
+        font-size: 19.78px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .51px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-2" points=".25 .25 34.21 .25 34.21 34.2 .25 34.2 .25 .25"/>
+  <text class="cls-1" transform="translate(9.01 24.31)"><tspan x="0" y="0">M</tspan></text>
+  <line class="cls-2" x1="42.71" y1="20.05" x2="33.94" y2="20.05"/>
+  <line class="cls-2" x1="42.71" y1="14.4" x2="33.94" y2="14.4"/>
+  <line class="cls-2" x1="42.71" y1="14.4" x2="42.71" y2="20.05"/>
+</svg>

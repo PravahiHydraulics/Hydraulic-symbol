@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 42.96 34.46">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: MSReferenceSansSerif, 'MS Reference Sans Serif';
+        font-size: 19.78px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .51px;
+      }
+    </style>
+  </defs>
+  <polyline class="cls-2" points="34.21 17.23 34.08 15 33.64 12.83 32.94 10.73 31.94 8.73 30.7 6.9 29.24 5.23 27.59 3.75 25.74 2.53 23.74 1.55 21.63 .83 19.45 .4 17.24 .25 15.03 .4 12.83 .83 10.74 1.55 8.75 2.53 6.91 3.75 5.23 5.23 3.75 6.9 2.53 8.73 1.55 10.73 .83 12.83 .4 15 .25 17.23 .4 19.45 .83 21.63 1.55 23.73 2.53 25.73 3.75 27.55 5.23 29.23 6.91 30.7 8.75 31.93 10.74 32.9 12.83 33.63 15.03 34.05 17.24 34.2 19.45 34.05 21.63 33.63 23.74 32.9 25.74 31.93 27.59 30.7 29.24 29.23 30.7 27.55 31.94 25.7 32.94 23.73 33.64 21.63 34.08 19.45 34.21 17.23"/>
+  <text class="cls-1" transform="translate(9.01 24.31)"><tspan x="0" y="0">M</tspan></text>
+  <line class="cls-2" x1="42.71" y1="20.05" x2="33.94" y2="20.05"/>
+  <line class="cls-2" x1="42.71" y1="14.4" x2="33.94" y2="14.4"/>
+  <line class="cls-2" x1="42.71" y1="14.4" x2="42.71" y2="20.05"/>
+</svg>

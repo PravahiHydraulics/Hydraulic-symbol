@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 443.6568 295.1479" height="36.8935mm" width="55.4571mm">
+<title>EC2A-H-3-X-1-F</title>
+<g style="stroke-linejoin: round; stroke-linecap: round; fill: none; stroke: black; stroke-width: 2;" transform="translate(263.5151,171)">
+<line x1="140" y1="-170" x2="-220" y2="-170" stroke-dashoffset="52.5" stroke-dasharray="65 10 15 10" />
+<polyline points="-140,-170 -140,-170 -140,-100 -140,-100" />
+<circle cx="-140" cy="80" r="10" fill="rgb(255,255,255)" />
+<text x="-180.14" y="124.15" alignment-baseline="after-edge" dominant-baseline="after-edge" text-anchor="start" font-family="Arial" stroke="none" fill="black" font-size="42">P</text>
+<circle cx="60" cy="80" r="10" fill="rgb(255,255,255)" />
+<text x="61" y="124.15" alignment-baseline="after-edge" dominant-baseline="after-edge" text-anchor="start" font-family="Arial" stroke="none" fill="black" font-size="42">T</text>
+<circle cx="140" cy="-20" r="10" fill="rgb(255,255,255)" />
+<text x="141" y="-25.85" alignment-baseline="after-edge" dominant-baseline="after-edge" text-anchor="start" font-family="Arial" stroke="none" fill="black" font-size="42">T</text>
+<line x1="125" y1="-5" x2="155" y2="-35" fill="rgb(255,255,255)" />
+<line x1="125" y1="-35" x2="155" y2="-5" fill="rgb(255,255,255)" />
+<circle cx="140" cy="-100" r="10" fill="rgb(255,255,255)" />
+<text x="139.86" y="-105.85" alignment-baseline="after-edge" dominant-baseline="after-edge" text-anchor="start" font-family="Arial" stroke="none" fill="black" font-size="42">P</text>
+<line x1="125" y1="-85" x2="155" y2="-115" fill="rgb(255,255,255)" />
+<line x1="125" y1="-115" x2="155" y2="-85" fill="rgb(255,255,255)" />
+<rect x="-60" y="-50" width="60" height="60" />
+<polyline points="0,-35 -15,-38.75 -15,-31.25 0,-35" fill="black" />
+<line x1="-60" y1="-35" x2="-15" y2="-35" fill="black" />
+<line x1="-60" y1="-20" x2="-90" y2="-50" stroke-dashoffset="10.79" stroke-dasharray="16 8" />
+<line x1="-90" y1="-50" x2="-90" y2="-80" stroke-dashoffset="5" stroke-dasharray="16 8" />
+<line x1="-90" y1="-80" x2="-45" y2="-80" stroke-dashoffset="9.5" stroke-dasharray="16 8" />
+<line x1="-45" y1="-80" x2="-45" y2="-50" stroke-dashoffset="5" stroke-dasharray="16 8" />
+<polyline points="-45,10 -30,13.17 -45,16.33 -60,19.5 -45,22.67 -30,25.83 -45,29 -60,32.17 -45,35.33 -30,38.5 -45,41.67 -60,44.83 -45,48" />
+<polyline points="-4,38 -17.84,31.11 -19.46,38.43 -4,38" fill="black" />
+<line x1="-72" y1="23" x2="-18.65" y2="34.77" fill="black" />
+<circle cx="-220" cy="-20" r="10" fill="rgb(255,255,255)" />
+<text x="-263.52" y="-25.85" alignment-baseline="after-edge" dominant-baseline="after-edge" text-anchor="start" font-family="Arial" stroke="none" fill="black" font-size="42">M</text>
+<circle cx="-140" cy="-20" r="5" fill="black" stroke="none" />
+<polyline points="-60,-20 -60,-20 -140,-20 -140,-20" />
+<circle cx="60" cy="-20" r="5" fill="black" stroke="none" />
+<polyline points="0,-20 0,-20 60,-20 60,-20" />
+<circle cx="-140" cy="-100" r="5" fill="black" stroke="none" />
+<polyline points="-140,-100 -140,-100 -140,-20 -140,-20" />
+<path d="M 60 -110 A 10 10 1 0 1 60 -90" />
+<polyline points="60,-20 60,-20 60,-90" />
+<polyline points="60,-110 60,-170 60,-170" />
+<line x1="-220" y1="80" x2="-220" y2="-10" stroke-dashoffset="37.5" stroke-dasharray="65 10 15 10" />
+<line x1="-220" y1="-170" x2="-220" y2="-30" stroke-dashoffset="12.5" stroke-dasharray="65 10 15 10" />
+<line x1="-140" y1="-20" x2="-210" y2="-20" />
+<line x1="130" y1="-100" x2="-140" y2="-100" />
+<line x1="140" y1="-170" x2="140" y2="-110" stroke-dashoffset="52.5" stroke-dasharray="65 10 15 10" />
+<line x1="140" y1="80" x2="140" y2="-10" stroke-dashoffset="37.5" stroke-dasharray="65 10 15 10" />
+<line x1="140" y1="-90" x2="140" y2="-30" stroke-dashoffset="52.5" stroke-dasharray="65 10 15 10" />
+<line x1="130" y1="-20" x2="60" y2="-20" />
+<line x1="140" y1="80" x2="70" y2="80" stroke-dashoffset="47.5" stroke-dasharray="65 10 15 10" />
+<line x1="60" y1="-20" x2="60" y2="70" />
+<line x1="-220" y1="80" x2="-150" y2="80" stroke-dashoffset="47.5" stroke-dasharray="65 10 15 10" />
+<line x1="50" y1="80" x2="-130" y2="80" stroke-dashoffset="42.5" stroke-dasharray="65 10 15 10" />
+<line x1="-140" y1="-20" x2="-140" y2="70" />
+</g>
+</svg>

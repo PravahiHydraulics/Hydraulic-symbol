@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31.63 45.41">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: ArialMT, Arial;
+        font-size: 8.38px;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .51px;
+      }
+    </style>
+  </defs>
+  <line class="cls-2" x1="19.85" y1="15.24" x2="21.95" y2="15.24"/>
+  <line class="cls-2" x1="21.95" y1="15.24" x2="27.33" y2="13.14"/>
+  <line class="cls-2" x1="28.37" y1="15.24" x2="26.27" y2="15.24"/>
+  <line class="cls-2" x1="7.42" y1="9.23" x2="31.37" y2="33.19"/>
+  <polyline class="cls-2" points="7.42 33.19 31.37 33.19 31.37 9.23 7.42 9.23 7.42 33.19"/>
+  <text class="cls-1" transform="translate(12.43 30.18)"><tspan x="0" y="0">P</tspan></text>
+  <line class="cls-2" x1=".25" y1="6.84" x2="10.58" y2="4.55"/>
+  <polyline points="10.22 2.98 10.92 6.11 16.41 3.25 10.22 2.98"/>
+  <line class="cls-2" x1="7.42" y1="9.23" x2="7.42" y2=".25"/>
+  <line class="cls-2" x1="19.41" y1="45.16" x2="19.41" y2="33.19"/>
+</svg>
